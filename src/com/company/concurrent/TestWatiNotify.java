@@ -4,9 +4,7 @@
  * Copyright 2018 Youdao, Inc. All rights reserved.
  * YOUDAO PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
-package com.company;
-
-import javax.swing.plaf.SliderUI;
+package com.company.concurrent;
 
 /**
  * TestWatiNotify

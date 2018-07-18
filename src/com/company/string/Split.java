@@ -1,4 +1,4 @@
-package com.company;
+package com.company.string;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;
@@ -11,7 +11,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 
-public class Main {
+public class Split {
 
     public static void main(String[] args) throws Exception {
         // write your code here

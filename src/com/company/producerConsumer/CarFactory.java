@@ -4,7 +4,7 @@
  * Copyright 2018 Youdao, Inc. All rights reserved.
  * YOUDAO PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
-package com.company;
+package com.company.producerConsumer;
 
 import java.util.ArrayList;
 import java.util.List;
